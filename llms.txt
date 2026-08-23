@@ -1,2 +1,25 @@
 # Elmira Duct Cleaning
-HVAC services in Ontario.
+
+> Elmira Duct Cleaning is a local HVAC company serving Elmira, Waterloo, Ontario, offering furnace repair, AC repair, ductless mini-split installation, heat pump repair and installation, fireplace installation, thermostat repair, and duct cleaning to homeowners across the region.
+
+Phone: (519) 669-4738  |  Email: contact@elmiraductcleaning.ca  |  Website: https://elmiraductcleaning.ca
+
+## Key pages
+
+- [Home](https://elmiraductcleaning.ca/): Elmira Duct Cleaning homepage with service overview and FAQ
+- [About](https://elmiraductcleaning.ca/about/): About the company and service area
+- [Contact](https://elmiraductcleaning.ca/contact/): Request a free quote or service call
+
+## Services
+
+- [Air Duct Cleaning](https://elmiraductcleaning.ca/services/air-duct-cleaning/): Air Duct Cleaning in Elmira, Ontario
+- [Dryer Vent Cleaning](https://elmiraductcleaning.ca/services/dryer-vent-cleaning/): Dryer Vent Cleaning in Elmira, Ontario
+- [Furnace & AC Cleaning](https://elmiraductcleaning.ca/services/furnace-ac-cleaning/): Furnace & AC Cleaning in Elmira, Ontario
+- [HRV & Ventilation Cleaning](https://elmiraductcleaning.ca/services/hrv-ventilation-cleaning/): HRV & Ventilation Cleaning in Elmira, Ontario
+- [Duct Sanitizing & Deodorizing](https://elmiraductcleaning.ca/services/duct-sanitizing/): Duct Sanitizing & Deodorizing in Elmira, Ontario
+- [Duct Sealing & Repair](https://elmiraductcleaning.ca/services/duct-sealing-repair/): Duct Sealing & Repair in Elmira, Ontario
+- [Commercial Duct Cleaning](https://elmiraductcleaning.ca/services/commercial-duct-cleaning/): Commercial Duct Cleaning in Elmira, Ontario
+
+## FAQ
+
+Common questions about HVAC service in Elmira are answered on the homepage.
